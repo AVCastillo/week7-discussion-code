@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "254716694165",
+    "project_id": "cmsc23-todo-app-arcastillo1",
+    "storage_bucket": "cmsc23-todo-app-arcastillo1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254716694165:android:35b2ad8081f8f4067ed59c",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254716694165-dai5m2omn9c63a4kkc5msdlfprr4uqfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwqagEQXitF_0bbHiEotNWYWhYR7EgsC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254716694165-dai5m2omn9c63a4kkc5msdlfprr4uqfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
